@@ -1,0 +1,1 @@
+import{u as t,c as s,b as o,e as n,o as a}from"./index-s3zQ1cNN.js";const c={class:"error-view"},u=o("h2",null,"授权取消",-1),d={__name:"ErrorView",setup(_){const r=t();return(l,e)=>(a(),s("div",c,[u,o("button",{onClick:e[0]||(e[0]=i=>n(r).replace("/"))},"返回首页")]))}};export{d as default};
